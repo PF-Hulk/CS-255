@@ -1,0 +1,13 @@
+CS-255: System Analysis and Design
+Overview
+This repository contains work from my CS-255 course on System Analysis and Design. The course focuses on learning how to analyze, design, and communicate system requirements effectively. Through practical assignments and projects, I gained experience with the Systems Development Life Cycle (SDLC), Unified Modeling Language (UML) diagrams, and requirements gathering techniques.
+
+Contents
+The main project included in this repository is Project One, where I applied concepts learned throughout the course to design and document a system based on client requirements.
+
+Project One: DriverPass System
+This project involves creating a system design for DriverPass, a driving test preparation company. The deliverables include:
+
+Business Requirements Document: Outlines the system requirements based on client interviews.
+UML Diagrams: Visual representations of the system's functionality and processes (Use Case, Activity, and Class Diagrams).
+Gantt Chart: A project timeline for developing and implementing the system.
